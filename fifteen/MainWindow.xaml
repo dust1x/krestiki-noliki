@@ -1,0 +1,37 @@
+﻿<Window x:Class="fifteen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:fifteen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="348.636">
+    <Grid x:Name="LayoutGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="114*"/>
+            <ColumnDefinition Width="113*"/>
+            <ColumnDefinition Width="114*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="42*"/>
+            <RowDefinition Height="89*"/>
+            <RowDefinition Height="97*"/>
+            <RowDefinition Height="91*"/>
+        </Grid.RowDefinitions>
+        <Menu x:Name="Меню" Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="42" VerticalAlignment="Top" Width="341">
+            <MenuItem Header="Меню" Height="32" Width="58">
+                <MenuItem Header="Новая игра" HorizontalAlignment="Left" Width="161" Click="MenuItem_Click" Margin="0,0,-21,0"/>
+            </MenuItem>
+        </Menu>
+        <Button x:Name="button0" Content="" Grid.Column="0" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="114" Height="89"/>
+        <Button x:Name="button1" Content="" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="113" Height="89"/>
+        <Button x:Name="button2" Content="" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="114" Height="89"/>
+        <Button x:Name="button3" Content="" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Width="114" Height="97"/>
+        <Button x:Name="button4" Content="" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Width="113" Height="97"/>
+        <Button x:Name="button5" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="111,0,0,0" Grid.Row="2" VerticalAlignment="Top" Width="116" Grid.ColumnSpan="2" Height="97"/>
+        <Button x:Name="button6" Content="" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="114" Height="91"/>
+        <Button x:Name="button7" Content="" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="113" Height="91"/>
+        <Button x:Name="button8" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="111,0,0,0" Grid.Row="3" VerticalAlignment="Top" Width="116" Grid.ColumnSpan="2" Height="91"/>
+
+    </Grid>
+</Window>

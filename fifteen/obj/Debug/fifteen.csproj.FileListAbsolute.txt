@@ -1,0 +1,44 @@
+F:\c#\мои дз\Fifteen\fifteen\fifteen\bin\Debug\fifteen.exe.config
+F:\c#\мои дз\Fifteen\fifteen\fifteen\obj\Debug\MainWindow.g.cs
+F:\c#\мои дз\Fifteen\fifteen\fifteen\obj\Debug\App.g.cs
+F:\c#\мои дз\Fifteen\fifteen\fifteen\obj\Debug\fifteen_MarkupCompile.cache
+F:\c#\мои дз\Fifteen\fifteen\fifteen\obj\Debug\fifteen_MarkupCompile.lref
+F:\c#\мои дз\Fifteen\fifteen\fifteen\obj\Debug\MainWindow.baml
+F:\c#\мои дз\Fifteen\fifteen\fifteen\obj\Debug\fifteen.g.resources
+F:\c#\мои дз\Fifteen\fifteen\fifteen\obj\Debug\fifteen.Properties.Resources.resources
+F:\c#\мои дз\Fifteen\fifteen\fifteen\obj\Debug\fifteen.csproj.GenerateResource.Cache
+F:\c#\мои дз\Fifteen\fifteen\fifteen\obj\Debug\fifteen.pdb
+F:\c#\мои дз\Fifteen\fifteen\fifteen\bin\Debug\fifteen.exe
+F:\c#\мои дз\Fifteen\fifteen\fifteen\bin\Debug\fifteen.pdb
+F:\c#\мои дз\Fifteen\fifteen\fifteen\obj\Debug\fifteen.exe
+F:\c#\мои дз\Fifteen\fifteen\fifteen\obj\Debug\fifteen.csprojResolveAssemblyReference.cache
+C:\Users\vipdu\Desktop\fifteen\fifteen\bin\Debug\fifteen.exe.config
+C:\Users\vipdu\Desktop\fifteen\fifteen\obj\Debug\fifteen.exe
+C:\Users\vipdu\Desktop\fifteen\fifteen\obj\Debug\fifteen.pdb
+C:\Users\vipdu\Desktop\fifteen\fifteen\bin\Debug\fifteen.exe
+C:\Users\vipdu\Desktop\fifteen\fifteen\bin\Debug\fifteen.pdb
+C:\Users\vipdu\Desktop\fifteen\fifteen\obj\Debug\fifteen.csprojResolveAssemblyReference.cache
+C:\Users\vipdu\Desktop\fifteen\fifteen\obj\Debug\MainWindow.g.cs
+C:\Users\vipdu\Desktop\fifteen\fifteen\obj\Debug\App.g.cs
+C:\Users\vipdu\Desktop\fifteen\fifteen\obj\Debug\fifteen_MarkupCompile.cache
+C:\Users\vipdu\Desktop\fifteen\fifteen\obj\Debug\fifteen_MarkupCompile.lref
+C:\Users\vipdu\Desktop\fifteen\fifteen\obj\Debug\MainWindow.baml
+C:\Users\vipdu\Desktop\fifteen\fifteen\obj\Debug\fifteen.g.resources
+C:\Users\vipdu\Desktop\fifteen\fifteen\obj\Debug\fifteen.Properties.Resources.resources
+C:\Users\vipdu\Desktop\fifteen\fifteen\obj\Debug\fifteen.csproj.GenerateResource.Cache
+C:\Users\vipdu\Desktop\fifteen1\fifteen\bin\Debug\fifteen.exe.config
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\fifteen.exe
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\fifteen.pdb
+C:\Users\vipdu\Desktop\fifteen1\fifteen\bin\Debug\fifteen.exe
+C:\Users\vipdu\Desktop\fifteen1\fifteen\bin\Debug\fifteen.pdb
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\fifteen.csproj.AssemblyReference.cache
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\fifteen.csproj.SuggestedBindingRedirects.cache
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\MainWindow.g.cs
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\App.g.cs
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\fifteen_MarkupCompile.cache
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\fifteen_MarkupCompile.lref
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\MainWindow.baml
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\fifteen.g.resources
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\fifteen.Properties.Resources.resources
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\fifteen.csproj.GenerateResource.cache
+C:\Users\vipdu\Desktop\fifteen1\fifteen\obj\Debug\fifteen.csproj.CoreCompileInputs.cache
